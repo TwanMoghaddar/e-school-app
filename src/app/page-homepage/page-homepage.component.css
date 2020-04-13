@@ -1,0 +1,31 @@
+body {
+  background-image: url('assets/background.jpg');
+  width: 1920px;
+  height: 1080px;
+}
+
+
+.bg {
+  background-color: #f0eeea;
+  width: 1920px;
+  height: 1080px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.welcomeText {
+  position: fixed;
+  right: 10%;
+  top: 20%;
+  font-size: 72px;
+}
+
+.normalText {
+  position: fixed;
+  top: 30% !important;
+  font-size: 50px;
+
+}

@@ -1,0 +1,24 @@
+/*.footer {*/
+/*  position: fixed;*/
+/*  left: 0;*/
+/*  bottom: 0;*/
+/*  width: 100%;*/
+/*  background-color: #444d4d;*/
+/*  color: #000000;*/
+/*  text-align: center;*/
+/*}*/
+
+/*.grid-item {*/
+/*  background-color: #444d4d;*/
+/*  border: 1px solid #444d4d;*/
+/*  padding: 10px;*/
+/*  font-size: 12px;*/
+/*  text-align: center;*/
+
+/*}*/
+/*.grid-container {*/
+/*  display: grid;*/
+/*  justify-content: center;*/
+/*  !*grid-template-columns: auto auto auto auto;*!*/
+/*  padding: 1px;*/
+/*}*/
